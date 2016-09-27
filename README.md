@@ -1,0 +1,2 @@
+# GameAnalytics
+Trial version
